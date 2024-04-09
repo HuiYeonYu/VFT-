@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<style> 
+h1 { text-align:center; color:black; font:arial; }
+body { background-color:lightgrey; color:black; }
+</style>
+
+<h1> Available classes in Korean With Hana </h1> 
+
+<body> 
+<p> - Korean With Hana facebook page <a href="https://www.facebook.com/koreanwithhana?mibextid=hu50Ix"> click here </a> </p> 
+<p> - Korean With Hana tiktok <a href="https://www.tiktok.com/@hanakim119?_t=8kHKobAcpes&_r=1"> click here </a> </p> 
+<p> - Korean With Hana youtube link </p>  
+<p> - KWHမှာကတော့ Yonsei Level class, Eps Class and old questions class, Yonsei Reading class, Speaking class, Topik Class ဆိုပြီးတော့ အတန်းတွေ အများကြီး ရှိတာမလို့ လာရောက်စုံစမ်းအပ်နှံနိုင်ပါတယ်ရှင့် </p> 
+</body> 
+
+
+
+</html>
